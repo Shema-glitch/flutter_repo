@@ -1,5 +1,5 @@
-name: flutter_application_1
-description: "A new Flutter project."
+name: Simple Login UI
+description: "Login UI with Flutter, no backend"
 publish_to: "none"
 version: 0.1.0
 
