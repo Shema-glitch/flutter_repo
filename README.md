@@ -11,7 +11,7 @@ This Flutter project demonstrates how to properly space widgets using `SizedBox`
 
 ### 1. Clone the Repository
 ```sh
-git clone [repository_url](https://github.com/Shema-glitch/flutter_repo.git)
+git clone https://github.com/Shema-glitch/flutter_repo.git
 cd <repository_name>
 ```
 
